@@ -98,6 +98,8 @@ Some notable examples being:
     - To select multiple criteria within a filter, press the button next to the clear filter:
         ![image](https://github.com/user-attachments/assets/633e0157-815d-4dd0-a1bf-0380bf3e3495)
     - If one of the buttons is faded out, that is because there is no data for that category (for example, Sky clan does not exist until AVOS).
+- **Can I use this data/dashboard to create my own analysis/visualization?**
+  - I do not own Warrior Cats property, but as far as this dataset goes, you're welcome to use it/add on to it to create your own visualization. If possible, I would appreciate being credited or linking back to this page!
 
 
 
