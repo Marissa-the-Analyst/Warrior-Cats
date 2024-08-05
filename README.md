@@ -1,6 +1,6 @@
 # Warrior-Cats
 An analysis on coat color, gender distribution, population, and name usage in Erin Hunter's Warrior Cat series <br>
-To view the finished dashboard, [click here] (link placeholder) <br>
+To view the finished dashboard, [click here](https://1drv.ms/x/s!AvVMeJdoMRZIdjIBQpNk0BJ3qAU?e=GpxMG8) <br>
 
 ### Programs Used ###
 Excel
@@ -69,7 +69,7 @@ In order to separate the data into color, gender, clan, and name attributes we h
 There are opportunities to use this dataset in conjunction with real feral cat genetics. This dataset could also be used alongside sales numbers of Warrior Cat books to guage consumer interest over time. There is also an opportunity to gather protagonist demographics and analyze those over the same metrics the overall dataset is analyzed at. This dataset could also be used to add a personality, religious views, eye color or xenophobic attributes!<br>
 
 ### Finished Product ###
-To view the finished dashboard [click here](placeholder link)
+To view the finished dashboard [click here](https://1drv.ms/x/s!AvVMeJdoMRZIdjIBQpNk0BJ3qAU?e=GpxMG8)
 
 ### Data Limitations ###
 With over, 4000 entiries and multiple authors there are bound to be mistakes in the books as well as in the dataset. The Warrior Cat Allegiances in particular are known to have several mistakes. The Warrior Cats Wiki does a great job of pointing this out [here](https://warriors.fandom.com/wiki/Mistakes_in_the_Warriors_Series). In some instances, I was able to catch these errors, such as a cat being given the wrong coat color, but I cannot promise I caught all of them. In addition, kits were left out of the dataset all together. They often weren't given descriptors and going forward in a book and finding them would've been troublesome. The cats also arent listed uniquely. Since the dataset relies so heavily on allegiance data, popular reoccuring characters like Firepaw, Fireheart, and Firestar, although they are all the same cat, are all treated as separate cats/entries. In addition Firestar in TPB 6 and Firstar in TNP 1 are treated as separate entries. The lack of unique identifier per actual cat isn't incredibly damaging to the dashboard but it does create some sway in the interpretation of color appearances. In some instances, certain sets of filters can cause Most Character Appearances to fill up with more than just 1 or 2 characters. This is due to ties in their amount of appearances. I've decided this isn't that big of an issue and creating a text box big enough to fit all of those names wouldn't be that productive. This same issue can be seen in the Prefix and rarely the Suffix category as well. If there is only one gender of a filtered cat color, this also breaks the Most populated clan category. 
