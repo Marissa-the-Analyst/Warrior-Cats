@@ -28,7 +28,7 @@ The goal of this project is to analyze Warrior Cats', an active 20 year old fant
 - Book Arc Analysis
 
 ### Data Source ####
-The orginal data is a dataset I have created myself. Below are details of its creation. You can access this raw dataset in xlsx format on [Kaggle] (placeholder). I plan on updating it once or twice a year with book releases. <br>
+The orginal data is a dataset I have created myself. Below are details of its creation. You can access this raw dataset in xlsx format in the XLSX file above. I plan on updating it once or twice a year with book releases. Note, I do not claim to own any Warrior Cats Content. <br>
 <br>
 **Extracting the data** <br>
 Character colors, gender, and clan were sourced from the Allegiances within each book. To get this data, I extracted the allegiance page from each book pdf and imported them into Excel with Power Query. This created source data that roughly looked like this: <br>
