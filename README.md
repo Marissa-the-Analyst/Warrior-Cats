@@ -7,6 +7,7 @@ To view the finished dashboard, [click here](https://1drv.ms/x/c/4816316897784cf
 | ------------- | ------------- | ------------- |
 |11/28/2024| 1.1|Added ASC 6, Fixed some names like 'Mediator Tree' -> 'Tree' and formulas that were calculating clan pop w/o Thunderclan |
 |2/3/2025|1.2|Added CS 1, Fixed more names and colors|
+|2/11/2025|1.21|Fixed name and pre/suffix slicers|
 
 
 ### Programs Used ###
