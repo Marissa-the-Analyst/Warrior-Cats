@@ -1,6 +1,6 @@
 # Warrior-Cats
 An analysis on coat color, gender distribution, population, and name usage in Erin Hunter's Warrior Cat series <br>
-To view the finished dashboard, [click here](https://1drv.ms/x/c/4816316897784cf5/EfVMeJdoMRYggEh2AAAAAAABBOolGTjH8e7Uv3ANyn6tMw?e=cffiSN) <br>
+To view the finished dashboard, [click here](https://1drv.ms/x/c/4816316897784cf5/IQDytnIG-CCGR4gw2AsoG7TdATIkQuxezJevZ2O83vSA-i4?e=WMiCDx&nav=MTVfe0ZCOUI4Q0UzLUQ3MDUtNEMxRS1BMkJFLTE1NDRBMTMyQUM1OH0) <br>
 
 ### Update History ###
 | Date | Version |Changes|
@@ -8,6 +8,7 @@ To view the finished dashboard, [click here](https://1drv.ms/x/c/4816316897784cf
 |11/28/2024| 1.1|Added ASC 6, Fixed some names like 'Mediator Tree' -> 'Tree' and formulas that were calculating clan pop w/o Thunderclan |
 |2/3/2025|1.2|Added CS 1, Fixed more names and colors|
 |2/11/2025|1.21|Fixed name and pre/suffix slicers|
+|4/20/2025|1.3| Added CS 2, 3 |
 
 
 ### Programs Used ###
